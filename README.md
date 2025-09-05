@@ -1,4 +1,4 @@
-![Banner](./profile-banner.png)
+
 
 # 💫 About Me:
 ## 👋 Hi, I'm Sainath Velaga  
