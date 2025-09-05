@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./assets/Banner.png)
 
 # 💫 About Me:
 ## 👋 Hi, I'm Sainath Velaga  
